@@ -1,0 +1,1 @@
+import{db as t,aw as a}from"./index-C4fkYcao.js";const s=e=>{t(()=>`Order&Pay | ${a(e)}`)};export{s as u};
